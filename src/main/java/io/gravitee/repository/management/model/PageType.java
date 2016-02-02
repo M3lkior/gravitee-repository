@@ -16,7 +16,7 @@
 package io.gravitee.repository.management.model;
 
 /**
- * @author Ludovic Dussart (ludovic.dussart at gmail.com)
+ * @author Ludovic Dussart (ludovic.dussart.pro at gmail.com)
  * Managed types for page documentation
  *
  */
